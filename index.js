@@ -34,7 +34,7 @@ app.post('/', async (req, res) => {
 
 
       res.json({
-        fulfillmentText: 'Sorry, I could not get the weather information for that city.',
+        fulfillmentText: 'hii how are you,Vicky this side',
       });
    
   });
